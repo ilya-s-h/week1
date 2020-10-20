@@ -1,7 +1,7 @@
 {
- "headers": {
-  "/*": {
-    "X-Author": "Opededuweb"
+  "headers": {
+    "/*": {
+      "X-Author": "opededuweb"
+    }
   }
- }
 }
