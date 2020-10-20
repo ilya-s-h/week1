@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "opededuweb"
+      "X-Author": "Шумякин, Илья Сергеевич",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
