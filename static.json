@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "190468",
+      "X-Author": "shumyakin_ilya",
       "Access-Control-Allow-Origin": "*"
     }
   }
