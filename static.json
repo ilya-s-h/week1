@@ -20,7 +20,7 @@
       "Content-Type": "text/html",
       "Access-Control-Allow-Origin": "*"
     },
-       "/result4/": {
+     "/result4/": {
       "Content-Type": "application/javascript",
       "Access-Control-Allow-Origin": "*"
     }
