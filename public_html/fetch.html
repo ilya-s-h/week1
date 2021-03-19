@@ -2,13 +2,14 @@
 <html>
  <head>
   <meta charset="utf-8">
-   <script>
-     async function task() {
-       i = document.getElementById("inp").value;
-       const response = await fetch(i);
-       document.getElementById('inp').value = await response.text();
-     }
-  </script>
+    <script>
+    async function task(){
+      input = document.getElementById("inp").value;
+      const res = await fetch(input)
+      .catch();
+      document.getElementById('inp').value = await res.text();
+    }
+    </script>
  </head>
  <body>
   <input id="inp">
